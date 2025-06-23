@@ -2,7 +2,7 @@
 name = "calculator-cli"
 version = "0.1.0"
 description = "A Calculator CLI Project"
-authors = [{ "name": "Subham Sen" }]
+authors = [{ "name" = "Subham Sen" }]
 requires-python = ">=3.10"
 dependencies = []
 

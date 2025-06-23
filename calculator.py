@@ -1,4 +1,4 @@
-from calculator import Calculator
+from classes import Calculator
 
 def get_number(prompt: str) -> float:
   while True:
